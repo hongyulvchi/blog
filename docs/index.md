@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 小说
-      link: /book1
+      link: /简介
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
